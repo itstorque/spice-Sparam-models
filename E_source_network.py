@@ -90,7 +90,7 @@ pyperclip.copy(OUTPUT)
 
 import matplotlib.pyplot as plt
 
-plt.loglog(freq, abs(S11))
+plt.loglog(freq, abs(S21))
 
 plt.show()
 
