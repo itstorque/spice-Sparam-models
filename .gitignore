@@ -1,6 +1,6 @@
 .DS_Store
-.raw
-.log
-.net
-.op.raw
-.plt
+*.raw
+*.log
+*.net
+*.op.raw
+*.plt
